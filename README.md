@@ -1,6 +1,6 @@
 # TensorFlow
 
-¡Bienvenidos, Machine Learners! Durante los próximos meses, nos embarcaremos en un emocionante viaje al mundo de TensorFlow, la biblioteca líder de código abierto para construir e implementar modelos de machine learning (aprendizaje automático). Ya seas un principiante absoluto o tengas algo de experiencia en programación, estas sesiones te proporcionará los conocimientos fundamentales y las habilidades prácticas para sumergirte en el apasionante campo del deep learning.
+¡Bienvenidos, Machine Learners! Durante los próximos meses, nos embarcaremos en un emocionante viaje al mundo de TensorFlow, la biblioteca líder de código abierto para construir e implementar modelos de machine learning (aprendizaje automático). Ya seas un principiante absoluto o tengas algo de experiencia en programación, estas sesiones te proporcionarán los conocimientos fundamentales y las habilidades prácticas para sumergirte en el apasionante campo del deep learning y la inteligencia artificial.
 
 ## Estructura:
 
