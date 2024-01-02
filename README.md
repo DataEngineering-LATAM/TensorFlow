@@ -44,7 +44,7 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Learning TensorFlow.js](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786)
 - [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript)
 
-# Playlists Recomendadas
+## Playlists Recomendadas
 
 - [TensorFlow in Google Colaboratory](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL)
 - [ML Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO)
@@ -53,6 +53,6 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [TensorFlow and Google Cloud](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwN2KcgCiApoDsVaxW64tNh)
 - [Responsible AI](https://www.youtube.com/playlist?list=PLQY2H8rRoyvw40o-nd2CSrk-3JNMxW6er)
 
-# Certificación
+## Certificación
 
 - [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
