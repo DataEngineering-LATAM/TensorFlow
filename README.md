@@ -91,6 +91,8 @@ Repo con material para las sesiones de estudio de TensorFlow.
 ## Otros Notebooks
 
 - [The Basics: Training Your First Model](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb)
+- [Simple Linear Regression with Synthetic Data](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/linear_regression_with_synthetic_data.ipynb)
+- [Linear Regression with a Real Dataset](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/linear_regression_with_a_real_dataset.ipynb)
 - [Code examples](https://keras.io/examples/)
 
 ## Libros Recomendados
