@@ -13,12 +13,12 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 ## Glosario de Términos
 
-- Feature: The input(s) to our model
-- Examples: An input/output pair used for training
-- Labels: The output of the model
-- Layer: A collection of nodes connected together within a neural network.
-- Model: The representation of your neural network
-- Dense and Fully Connected (FC): Each node in one layer is connected to each node in the previous layer.
+- Feature: El(los) input(s) para nuestro modelo
+- Examples: Un par de entrada/salida usados para el entrenamiento
+- Labels: La salida del modelo
+- Layer: Una colección de nodos conectados dentro de una red neuronal
+- Model: La representación de nuestra red neuronal
+- Dense and Fully Connected (FC): Cada nodo en una capa está conectada con cada nodo de la capa anterior.
 - Weights and biases: The internal variables of model
 - Loss: The discrepancy between the desired output and the actual output
 - MSE: Mean squared error, a type of loss function that counts a small number of large discrepancies as worse than a large number of small ones.
