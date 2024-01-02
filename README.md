@@ -7,7 +7,7 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 ## Prerrequisitos
 - [Colab: Python and Colab Primer](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
-
+- [Python-StudyClub Data Engineering Latam 🐍](https://github.com/DataEngineering-LATAM/Python-StudyClub)
 ## Contenido
 
 ### Beginners
