@@ -52,3 +52,7 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Building recommendation systems with TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz)
 - [TensorFlow and Google Cloud](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwN2KcgCiApoDsVaxW64tNh)
 - [Responsible AI](https://www.youtube.com/playlist?list=PLQY2H8rRoyvw40o-nd2CSrk-3JNMxW6er)
+
+# Certificación
+
+- [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
