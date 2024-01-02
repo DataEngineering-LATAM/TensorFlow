@@ -21,6 +21,10 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Learning TensorFlow.js](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786)
 - [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript)
 
-# Videos
+# Playlists Recomendadas
 
-- [TensorFlow in Google Colaboratory](
+- [TensorFlow in Google Colaboratory](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL)
+- [ML Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO)
+- [Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+- [Building recommendation systems with TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz)
+- [TensorFlow and Google Cloud](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwN2KcgCiApoDsVaxW64tNh)2
