@@ -10,12 +10,19 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 ## Contenido
 
-#### TensorFlow Level 0 (installing and quickstarts)
+### Beginners
 
 - [TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - [TensorFlow 2 quickstart for experts](https://www.tensorflow.org/tutorials/quickstart/advanced)
 
-  
+- [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification)
+- [Basic text classification](https://www.tensorflow.org/tutorials/keras/text_classification)
+- [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
+- [Basic regression: Predict fuel efficiency](https://www.tensorflow.org/tutorials/keras/regression)
+- [Overfit and underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
+- [Save and load models](https://www.tensorflow.org/tutorials/keras/save_and_load)
+- [Introduction to the Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)
+
 #### Loading Data
 
 - [Load CSV data](https://www.tensorflow.org/tutorials/load_data/csv)
@@ -76,6 +83,7 @@ Repo con material para las sesiones de estudio de TensorFlow.
 ## Otros Notebooks
 
 - [The Basics: Training Your First Model](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb)
+- [Code examples](https://keras.io/examples/)
 
 ## Libros Recomendados
 
