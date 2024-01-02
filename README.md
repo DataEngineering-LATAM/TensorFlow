@@ -27,4 +27,5 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [ML Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO)
 - [Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 - [Building recommendation systems with TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz)
-- [TensorFlow and Google Cloud](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwN2KcgCiApoDsVaxW64tNh)2
+- [TensorFlow and Google Cloud](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwN2KcgCiApoDsVaxW64tNh)
+-[Responsible AI](https://www.youtube.com/playlist?list=PLQY2H8rRoyvw40o-nd2CSrk-3JNMxW6er)
