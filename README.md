@@ -12,8 +12,12 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 ### Beginners
 
+#### Quickstarts
+
 - [TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - [TensorFlow 2 quickstart for experts](https://www.tensorflow.org/tutorials/quickstart/advanced)
+
+#### ML basics with Keras
 
 - [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification)
 - [Basic text classification](https://www.tensorflow.org/tutorials/keras/text_classification)
@@ -28,6 +32,10 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Load CSV data](https://www.tensorflow.org/tutorials/load_data/csv)
 - [Load and preprocess images](https://www.tensorflow.org/tutorials/load_data/images)
 - [Load video data](https://www.tensorflow.org/tutorials/load_data/video)
+- [Load NumPy data](https://www.tensorflow.org/tutorials/load_data/numpy)
+- [Load a pandas DataFrame](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe)
+- [TFRecord and tf.train.Example](https://www.tensorflow.org/tutorials/load_data/tfrecord)
+- [Load text](https://www.tensorflow.org/tutorials/load_data/text)
 
 ### Deep Dive
 
