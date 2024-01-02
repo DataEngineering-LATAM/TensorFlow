@@ -10,19 +10,49 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 ## Contenido
 
-### Install TensorFlow
+#### TensorFlow Level 0 (installing and quickstarts)
+
+- [TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
+- [TensorFlow 2 quickstart for experts](https://www.tensorflow.org/tutorials/quickstart/advanced)
+
+  
+#### Loading Data
+
+- [Load CSV data](https://www.tensorflow.org/tutorials/load_data/csv)
+- [Load and preprocess images](https://www.tensorflow.org/tutorials/load_data/images)
+- [Load video data](https://www.tensorflow.org/tutorials/load_data/video)
+
+### Deep Dive
 
 - [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
 - [Install TensorFlow with Docker](https://www.tensorflow.org/install/docker)
 
-### [TensorFlow basics](https://www.tensorflow.org/guide/basics)
+#### [TensorFlow basics](https://www.tensorflow.org/guide/basics)
 
-  - [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
-  - [Introduction to Variables](https://www.tensorflow.org/guide/variable)
-  - [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff)
-  - [Introduction to graphs and tf.function](https://www.tensorflow.org/guide/intro_to_graphs)
-  - [Introduction to modules, layers, and models](https://www.tensorflow.org/guide/intro_to_modules)
-  - [Basic training loops](https://www.tensorflow.org/guide/basic_training_loops)
+- [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
+- [Introduction to Variables](https://www.tensorflow.org/guide/variable)
+- [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff)
+- [Introduction to graphs and tf.function](https://www.tensorflow.org/guide/intro_to_graphs)
+- [Introduction to modules, layers, and models](https://www.tensorflow.org/guide/intro_to_modules)
+- [Basic training loops](https://www.tensorflow.org/guide/basic_training_loops)
+
+#### Keras: The high-level API for TensorFlow
+
+- [Keras Overview](https://www.tensorflow.org/guide/keras)
+- [The Sequential model](https://www.tensorflow.org/guide/keras/sequential_model)
+- [The Functional API](https://www.tensorflow.org/guide/keras/functional_api)
+- [Training & evaluation with the built-in methods](https://www.tensorflow.org/guide/keras/training_with_built_in_methods)
+- [Making new layers and models via subclassing](https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing)
+- [Save, serialize, and export models](https://www.tensorflow.org/guide/keras/serialization_and_saving)
+- [Customizing Saving and Serialization](https://www.tensorflow.org/guide/keras/customizing_saving_and_serialization)
+- [Working with preprocessing layers](https://www.tensorflow.org/guide/keras/preprocessing_layers)
+- [Customizing what happens in fit()](https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit)
+- [Writing a training loop from scratch](https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch)
+- [Working with RNNs](https://www.tensorflow.org/guide/keras/working_with_rnns)
+- [Understanding masking & padding](https://www.tensorflow.org/guide/keras/understanding_masking_and_padding)
+- [Writing your own callbacks](https://www.tensorflow.org/guide/keras/writing_your_own_callbacks)
+- [Transfer learning & fine-tuning](https://www.tensorflow.org/guide/keras/transfer_learning)
+- [Multi-GPU and distributed training](https://www.tensorflow.org/guide/keras/distributed_training)
 
 ## Glosario de Términos
 
