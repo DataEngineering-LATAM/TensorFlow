@@ -20,3 +20,7 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [Learning TensorFlow.js](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786)
 - [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript)
+
+# Videos
+
+- [TensorFlow in Google Colaboratory](
