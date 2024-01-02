@@ -19,16 +19,16 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - Layer: Una colección de nodos conectados dentro de una red neuronal
 - Model: La representación de nuestra red neuronal
 - Dense and Fully Connected (FC): Cada nodo en una capa está conectada con cada nodo de la capa anterior.
-- Weights and biases: The internal variables of model
-- Loss: The discrepancy between the desired output and the actual output
-- MSE: Mean squared error, a type of loss function that counts a small number of large discrepancies as worse than a large number of small ones.
-- Gradient Descent: An algorithm that changes the internal variables a bit at a time to gradually reduce the loss function.
-- Optimizer: A specific implementation of the gradient descent algorithm. (There are many algorithms for this. In this course we will only use the “Adam” Optimizer, which stands for ADAptive with Momentum. It is considered the best-practice optimizer.)
-- Learning rate: The “step size” for loss improvement during gradient descent.
-- Batch: The set of examples used during training of the neural network
-- Epoch: A full pass over the entire training dataset
-- Forward pass: The computation of output values from input
-- Backward pass (backpropagation): The calculation of internal variable adjustments according to the optimizer algorithm, starting from the output layer and working back through each layer to the input.
+- Weights and biases: Son variables internas del modelo
+- Loss: La discrepancia entre la salida deseada y la real
+- MSE: Error cuadrado de la media (Mean squared error), es un tipo de función de pérdida que cuenta un número pequeño de grandes discrepancias como algo peor que un gran número de pequeñas discrepancias.
+- Gradient Descent: Un algoritmo que cambia las variables internas un poco cada vez para reducir la función de pérdida.
+- Optimizer: Una implementación específica del algoritmo de gradiente descendiente. (Hay muchos algoritmos para esto. Un tipo de implementación considerada como "best practice" es “Adam” Optimizer, que significa ADAptive con Momentum.)
+- Learning rate:  El "step size" para mejorar la pérdida durante el descenso del gradiente.
+- Batch: El conjunto de ejemplos utilizados durante el entrenamiento de la red neuronal.
+- Epoch: Un recorrido completo por todo el conjunto de datos de entrenamiento
+- Forward propagation (forward pass): El cálculo de los valores de salida a partir de la entrada.
+- Backpropagation (backward pass): El cálculo de los ajustes de las variables internas de acuerdo con el algoritmo optimizador, comenzando desde la capa de salida y retrocediendo a través de cada capa hasta la entrada.
 
 ## Otros Notebooks
 
