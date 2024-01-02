@@ -9,7 +9,20 @@ Repo con material para las sesiones de estudio de TensorFlow.
 - [Colab: Python and Colab Primer](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
 ## Contenido
-- Pronto
+
+### Install TensorFlow
+
+- [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
+- [Install TensorFlow with Docker](https://www.tensorflow.org/install/docker)
+
+### [TensorFlow basics](https://www.tensorflow.org/guide/basics)
+
+  - [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
+  - [Introduction to Variables](https://www.tensorflow.org/guide/variable)
+  - [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff)
+  - [Introduction to graphs and tf.function](https://www.tensorflow.org/guide/intro_to_graphs)
+  - [Introduction to modules, layers, and models](https://www.tensorflow.org/guide/intro_to_modules)
+  - [Basic training loops](https://www.tensorflow.org/guide/basic_training_loops)
 
 ## Glosario de Términos
 
