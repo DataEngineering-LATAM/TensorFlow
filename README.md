@@ -124,6 +124,10 @@ Repo con material para las sesiones de estudio de TensorFlow.
 
 Data Engineering Latam es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
 
+<div style="margin: 0 auto">
+  <img src="https://pbs.twimg.com/profile_images/1462605042444341249/xjZALInT_400x400.jpg" />
+</div>
+
 ## Síguenos en nuestras redes oficiales
 
 - [YouTube](https://youtube.com/c/dataengineeringlatam?sub_confirmation=1)
